@@ -1,0 +1,46 @@
+body {
+    background-color: #FC6A03;
+}
+
+.container {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 40px;
+
+}
+#main-header {
+    background-color: black;
+    width: 100%;
+}
+
+#main-header h1 {
+    color: Yellow;
+    text-align: center;
+    padding: 10px;
+}
+#navbar ul {
+    background-color: #C04000;
+}
+
+#navbar li {
+    display: inline;
+    padding: 10px;
+    list-style-type: none;
+}
+
+#navbar li a {
+    text-decoration: none;
+    color: white;
+}
+
+#navbar li a:hover {
+    color: purple;
+}
+
+#naruto {
+    border: 10px solid yellow;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
